@@ -1,4 +1,4 @@
-# Lambda Curse
+# Lambda Course
 
 ## Function for Face Rekognition
 
